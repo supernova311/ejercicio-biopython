@@ -28,3 +28,9 @@ def concatenate_and_get_reverse_of_complement():
         my_seq = concatenated
         print(my_seq.reverse_complement())
 
+
+def extract_sequences
+for i, in enumerate(SeqIO.parse()):
+        nombre = sequence(i) + .fasta
+        archivo = open(nombre)
+        archivo.close()
